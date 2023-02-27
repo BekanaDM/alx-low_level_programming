@@ -1,12 +1,14 @@
 #include "main.h"
 
 /**
- * reset_to_98 - Checks if a character is uppercase.
- * @n: The character to be checked.
+ * reset_to_98 - updates the value of n to 98
+ * @n: integer pointer to a variable to be updated.
+ *
+ * Return: nothing
  */
+
 void reset_to_98(int *n)
 {
 	*n = 98;
-	printf("Value of *n variable: %d\n", *n);
 }
 
