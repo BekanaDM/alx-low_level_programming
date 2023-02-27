@@ -7,6 +7,6 @@
 void reset_to_98(int *n)
 {
 	*n = 98;
-	printf("Value of *n variable: %d\n", *n );
+	printf("Value of *n variable: %d\n", *n);
 }
 
