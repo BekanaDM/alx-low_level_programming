@@ -8,7 +8,7 @@
  */
 int main(void)
 {
-	_putchar("File :%s\n", __FILE__);
+	_putchar("%s\n", __FILE__);
 
 	return (0);
 }
