@@ -4,9 +4,7 @@
  * @len: length of the string
  * @next: points to the next node
  *
- * Description: singly linked list node structure
- * for Holberton project
- * All files in this project use this format 
+ * Description: singly linked list node structure 
  */
 typedef struct list_s
 {
