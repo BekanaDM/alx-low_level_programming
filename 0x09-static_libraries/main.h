@@ -3,7 +3,6 @@
 
 /*
  * File: main.h
- * Auth: Firdaus
  * Desc: Header file containing the prototypes of all functions
  *       included in the static library libholberton.a.
  */
